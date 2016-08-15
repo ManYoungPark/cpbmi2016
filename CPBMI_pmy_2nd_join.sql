@@ -214,3 +214,6 @@ INSERT INTO major_master VALUES('M19','한의사내과')
 INSERT INTO major_master VALUES('M20','한의사면허')
 INSERT INTO major_master VALUES('M21','흉부외과')
 GO
+
+
+.
