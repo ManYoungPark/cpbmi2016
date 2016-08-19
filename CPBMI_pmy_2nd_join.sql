@@ -216,4 +216,4 @@ INSERT INTO major_master VALUES('M21','ÈäºÎ¿Ü°ú')
 GO
 
 
-.
+..
